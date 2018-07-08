@@ -1,0 +1,126 @@
+h1,h2,h3{
+    font-weight:bold; 
+}
+
+.margin-top-9vh { margin-top: 9vh; }
+.margin-top-10px{margin-top: 10px}
+.margin-top-30px{margin-top: 30px}
+.margin-top-40px{margin-top: 40px}
+
+.text-20{font-size: 20px}
+.text-18{font-size: 18px}
+
+.banner{color: white;}
+.banner h1{
+    font-size:40px;
+    max-width: 500px;
+    margin:20px auto;
+
+}
+.banner img{
+    max-width: 200px;
+}
+.banner a{ color: rgb(255,125,75)}
+
+.experience{
+    color: white;
+}
+
+.experiance-light{
+    color: #487fbc;
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: "source-sans-pro", sans-serif;
+}
+.lpading-o{padding-left: 0}
+
+.education a{color:#55c2e9}
+.social .link {
+    display: block;
+    vertical-align: middle;
+    position: relative;
+    width: 4em;
+    height: 4em;
+    border-radius: 20%;
+
+    background-clip: content-box;
+    padding: 5px;
+    transition: .5s;
+    color: #D7D0BE;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+.social .link span {
+    display: block;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.social .link:hover{
+    padding: 10px;
+    color: white;
+    transform: translatey(30px) rotate(360deg);
+}
+
+.instagram, .instagram:hover {
+    background-color: rgb(255,125,75);
+    color: white;
+}
+
+.twitter,.twitter:hover {
+    background-color: rgb(255,125,75);
+    color: white;
+}
+
+.facebook ,.facebook:hover{
+    background-color: rgb(255,125,75);
+    color: white;
+}
+
+.linkedin,.linkedin:hover{
+    background-color: rgb(255,125,75);
+    color: white;
+}
+
+.light {
+    color: #878787;
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: "source-sans-pro", sans-serif;}
+
+
+.experience .list-group-item{
+    background-color: #17c2a4;
+    font-size: 16px;
+    border: 0;
+    border-radius: 0;
+
+}
+
+.education .list-group-item{
+    background-color: #bdd1df;
+    font-size: 16px;
+    border: 0;
+    border-radius: 0;
+    
+
+}
+.experience h3{
+    color: #487fbc;
+}
+.badge {
+    background-color: #487fbc;
+}
+
+.interet{
+    font-size: 18px;
+}
+.interet .list-group-item {
+    background-color: #17c2a4;
+}
